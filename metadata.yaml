@@ -1,0 +1,59 @@
+_repo: Deeds-of-heroism-and-bravery-b-The-book-of-heroes-and-personal-daring_75487
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Hughes, Rupert
+    birthdate: 1872
+    deathdate: 1956
+    gutenberg_agent_id: '2334'
+    url: http://www.gutenberg.org/2009/agents/2334
+    wikipedia: https://en.wikipedia.org/wiki/Rupert_Hughes
+  illustrators:
+  - agent_name: Bouchor, J.-F. (Joseph-Félix)
+    aliases:
+    - Bouchor, Joseph-Félix
+    - Bouchor, J.-F. (Joseph-Felix)
+    birthdate: 1853
+    deathdate: 1937
+    gutenberg_agent_id: '58023'
+    url: http://www.gutenberg.org/2009/agents/58023
+    wikipedia: https://en.wikipedia.org/wiki/Joseph-F%C3%A9lix_Bouchor
+  - agent_name: Chase, Joseph Cummings
+    alias: Chase, J. C. (Joseph Cummings)
+    birthdate: 1878
+    deathdate: 1965
+    gutenberg_agent_id: '44141'
+    url: http://www.gutenberg.org/2009/agents/44141
+    wikipedia: https://en.wikipedia.org/wiki/Joseph_Cummings_Chase
+creator:
+  editor:
+    agent_name: Barron, Elwyn
+    aliases:
+    - Barron, Elwyn A. (Elwyn Alfred)
+    - Barron, Elwyn Alfred
+    birthdate: 1855
+    deathdate: 1929
+    gutenberg_agent_id: '58022'
+    url: http://www.gutenberg.org/2009/agents/58022
+description: ''
+gutenberg_issued: '2025-02-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75487'
+language: en
+pgterms:marc905: 20140831005156barron
+pgterms:marc906: '1817'
+pgterms:marc907: GB
+production_note: Bob Taylor, Brian Coe and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aLondon :$bHarper & Brothers, $c1817.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Personal narratives'
+- !lcc 'D501'
+- GITenberg
+title: 'Deeds of heroism and bravery : $b The book of heroes and personal daring'
+url: http://www.gutenberg.org/ebooks/75487
