@@ -25,6 +25,9 @@ contributor:
     gutenberg_agent_id: '44141'
     url: http://www.gutenberg.org/2009/agents/44141
     wikipedia: https://en.wikipedia.org/wiki/Joseph_Cummings_Chase
+covers:
+- cover_type: archival
+  image_path: 75487-h/images/cover.jpg
 creator:
   editor:
     agent_name: Barron, Elwyn
@@ -36,6 +39,8 @@ creator:
     gutenberg_agent_id: '58022'
     url: http://www.gutenberg.org/2009/agents/58022
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75487#Deeds-of-heroism-and-bravery-b-The-book-of-heroes-and-personal-daring
 gutenberg_issued: '2025-02-28'
 gutenberg_type: Text
 identifiers:
